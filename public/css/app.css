@@ -1,0 +1,26 @@
+body {
+  font-family: cursive;                                                                                                                                                                                                                                                                                                                                                                                                                                        ;
+  font-size: 16px;
+}
+
+
+h1, h2 {
+  color: #b10177;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+
+img {
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+footer {
+  margin-bottom: 30px;
+  color: #666;
+  font-size: 14px;
+}
